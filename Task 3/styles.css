@@ -1,0 +1,25 @@
+.wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+#toolPanel {
+  text-align: center;
+}
+
+
+
+.slider input {
+  height: 1.8em;
+  flex: 1 1 auto;
+  padding: 0; /* IE11 */
+}
+
+#sliderValue {
+  margin: 0 5px;
+}
+
+#myChart {
+  height: 100%;
+}
